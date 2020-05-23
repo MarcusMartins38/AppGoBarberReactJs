@@ -1,4 +1,7 @@
 It's not finished yet!! (I'm working on it, to use the back-end that's already finished)
+(To use and test the Appliaction, you will need to use AppGoBarberNodeJs-BackEnd, the link to the back-end from my repository:https://github.com/MarcusMartins38/AppGoBarberNodeJs-BackEnd)
+
+-Before test the Application, you need to run on Back-end the command " yarn dev:server "
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
